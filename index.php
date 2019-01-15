@@ -10,7 +10,7 @@
     <?php wp_head(); ?>
 </head>
 <body>
-    <h1>Hello, ceci est une pipe</h1>
+    <h1>Hello, ceci est une branche</h1>
     <div>In addition to CSS style information for your 
     theme, style.css provides details about the Theme 
     in the form of comments. The stylesheet must provide 
